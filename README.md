@@ -17,3 +17,8 @@
 
 ## Задание 5
 <img width="921" height="859" alt="Снимок экрана 2026-03-18 102913" src="https://github.com/user-attachments/assets/4f654fd9-d0ac-497d-8768-e205d8699f37" />
+
+
+## STEPIK
+<img width="1919" height="989" alt="Снимок экрана 2026-03-18 111740" src="https://github.com/user-attachments/assets/9cbf5fb6-6c9e-49b6-813c-e075d009fe9f" />
+
